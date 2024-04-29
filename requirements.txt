@@ -1,8 +1,6 @@
 streamlit
-sklearn
+scikit-learn
 pandas
 numpy
-model
 spacy
-re
 nltk
