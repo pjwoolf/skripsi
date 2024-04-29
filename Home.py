@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import model
 from model import clean_text
 
 df = pd.read_csv("cl_job_skills.csv")
