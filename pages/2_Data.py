@@ -1,6 +1,5 @@
 import streamlit as st
 from Home import df
-import model
 from model import raw_data, clean_data, tfidf_data, cosine_sim_data, recommandation
 
 session = st.session_state
