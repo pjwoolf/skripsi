@@ -1,6 +1,5 @@
 import streamlit as st
 from Home import df
-import model
 from model import recommandation, clean_text
 
 session = st.session_state
